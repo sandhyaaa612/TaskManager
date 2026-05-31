@@ -1,4 +1,3 @@
-import app from '../server';
+import app from '../server.js'; // Use .js here even though the file is server.ts (Vite/TS convention)
 
-// This lets Vercel's serverless engine directly intercept the Express instance
 export default app;
