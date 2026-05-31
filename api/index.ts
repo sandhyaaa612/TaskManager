@@ -1,3 +1,3 @@
-import app from '../server.js'; // Use .js here even though the file is server.ts (Vite/TS convention)
+import app from '@/server.ts'; // Uses your root alias mapping explicitly
 
 export default app;
