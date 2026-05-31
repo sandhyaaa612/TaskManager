@@ -1,3 +1,2 @@
-import app from '@/server.ts'; // Uses your root alias mapping explicitly
-
+import app from '../dist/server.cjs';
 export default app;
