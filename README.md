@@ -1,6 +1,6 @@
-# Full-Stack Workflow Kanban
+# Task Manager Workflow 
 
-A beautifully crafted, responsive Full-Stack Kanban Task Manager built with **TypeScript**, **React 19**, **Vite**, **Express**, and **Tailwind CSS**.
+A beautifully crafted, responsive Task Manager built with **TypeScript**, **React 19**, **Vite**, **Express**, and **Tailwind CSS**.
 
 🚀 **Live App URL:** [Open Development Workspace](https://ais-dev-rwqti7qm4catuwa56lzyan-420910988175.asia-southeast1.run.app)
 
