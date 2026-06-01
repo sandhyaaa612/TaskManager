@@ -109,7 +109,7 @@ export default function AuthScreen({ onAuthSuccess, addToast }: AuthScreenProps)
           </h2>
           <p className="text-slate-400 text-sm">
             {isLogin
-              ? 'Log in to securely orchestrate your stage workflows.'
+              ? 'Log in to securely manage your tasks and workflows.'
               : 'Register an account and start managing workflows today.'}
           </p>
         </div>
