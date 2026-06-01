@@ -105,7 +105,7 @@ export default function AuthScreen({ onAuthSuccess, addToast }: AuthScreenProps)
             </svg>
           </div>
           <h2 className="text-3xl font-bold tracking-tight text-white mb-2 font-sans">
-            Task Orchestrator
+            Task Manager
           </h2>
           <p className="text-slate-400 text-sm">
             {isLogin
